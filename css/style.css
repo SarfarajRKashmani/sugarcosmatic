@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul li{
+    list-style: none;
+}
+/* navbar */
+.nav-1{
+    height: 72px;
+}
+.nav-1-1{
+    height: 32px;
+    width: 256px;
+}
+.nav1-2{
+    border:0.5px #989898 ;
+    border-radius: 10px;
+    height: 40px;
+}
+.nav1-2 i{
+    padding-left: 15px;
+}
+.nav1-2 input{
+   border: none;
+   font-size: 18px; 
+}
+.nav1-2-1{
+    border-bottom-right-radius: 5px; 
+    border-top-right-radius:5px ;
+ }
+.nav1-3{
+    color: white;
+    padding-left: 60px;
+    font-size: 15px;
+}
+.nav1-4{
+    color: white;
+}
+.nav-2{
+    background: #141414;
+    height: 53px;
+    font-size: 14px;
+}
+.nav-2 ul{
+    margin: 0;
+}
+/* swiper */
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .sw1{
+    height: 10px;
+  }
+
+
+  /* banner */
+  .ban{
+    height: 390px;
+    margin-top: 0;
+    font-size: 22px;
+    font-weight: 700;
+  }
+  .ban1{
+    height: 29px;
+  }
+  .ban1-2{
+    height: 350px;
+  }
+.red{
+    width: 3%;
+    opacity: 1;
+    border-top: 2px solid #fc2779 ;
+}
+.bgi-1{
+    background-image: url(/images/bg-1.png);
+    height: 300px;
+    width: 95%;
+    background-size: cover;
+}
+.ban1-3{
+    height: 300px;
+}
+.ban1-2 .ban1-4 img{
+    height: 110px;
+}
+.text-pink{
+    color: #FC2678;
+}
+/* banner-2 */
+.bgi-2{
+    background-image: url(/images/bg-2.png);
+    height: 608px;
+    width: 100%;
+}
+.ban2-1{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    height: 84px;
+}
+/* banner-3 */
+.ban3{
+    height: 430px;
+    margin-top: 0;
+    font-size: 22px;
+    font-weight: 700;
+  }
+.bgi-3{
+    background-image: url(/images/bn-4.webp);
+    height: 350px;
+    width: 95%;
+    background-size: cover;
+}
+/* banner-4 */
+/* banner-5 */
+.ban5{
+    height: 430px;
+    margin-top: 0;
+    font-size: 22px;
+    font-weight: 700;
+  }
+.bgi-5{
+background-image: url(/images/bg-5.webp);
+    height: 350px;
+    width: 95%;
+    background-size: cover;
+}
+/* banner-6 */
+/* banner-7 */
+/* banner-8 */
+.ban8{
+    height: 620px;
+    margin-top: 0;
+    font-size: 22px;
+    font-weight: 700;
+  }
+.bgi-8{
+    height: 350px;
+    width: 95%;
+    background-size: cover;
+}
+/* banner-9 */
+/* banner-10 */
+/* banner-11 */
+.ban11{
+    height: 430px;
+    margin-top: 0;
+  }
+.bgi-11{
+height: 350px;
+    width: 95%;
+    background-size: cover;
+}
+/* banner-12 */
+/* banner-13 */
+/* banner-14 */
